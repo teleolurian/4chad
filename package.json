@@ -1,0 +1,26 @@
+{
+  "name": "4chad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:teleolurian/4chad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teleolurian/4chad/issues"
+  },
+  "homepage": "https://github.com/teleolurian/4chad",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "express": "^4.13.4",
+    "lodash": "^4.6.1",
+    "request": "^2.69.0",
+    "request-promise": "^2.0.1"
+  }
+}
